@@ -36,6 +36,8 @@ public class Main {
         System.out.println(z);
         System.out.println(x);
 
+        //tipologia di dati Primitive e Reference
+
     }
 }
 
