@@ -26,14 +26,15 @@ public class Main {
         //variabbile stringa
         String w = "stinga";
 
-        //
+        //per valori non interi 
         double z =  10.2;
 
 
-        System.out.println(x);
+        System.out.println(x * y); 
         System.out.println(w);
         System.out.println(y);
         System.out.println(z);
+        System.out.println(x);
 
     }
 }
